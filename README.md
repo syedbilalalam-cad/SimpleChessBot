@@ -3,6 +3,9 @@
 
 THIS PROGRAM IS STRICTLY MADE FOR EDUCATIONAL PURPOSES! YOU CAN USE IT FOR LEARNING PURPOSES ONLY.
 
+![Capture](https://github.com/user-attachments/assets/0d6d395d-0b85-496c-a32e-09baec02f742)
+
+
 ## Steps to Install the Extension: 🛠 
 
 • Download the Code: Go to the Simple Netflix Checker GitHub page. Click on the green "Code" button, and select "Download ZIP." Extract the ZIP file to a folder on your computer.
