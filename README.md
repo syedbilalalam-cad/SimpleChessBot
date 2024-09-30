@@ -8,7 +8,7 @@ THIS PROGRAM IS STRICTLY MADE FOR EDUCATIONAL PURPOSES! YOU CAN USE IT FOR LEARN
 
 ## Steps to Install the Extension: 🛠 
 
-• Download the Code: Go to the Simple Netflix Checker GitHub page. Click on the green "Code" button, and select "Download ZIP." Extract the ZIP file to a folder on your computer.
+• Download the Code: Go to the SimpleChessBot GitHub page. Click on the green "Code" button, and select "Download ZIP." Extract the ZIP file to a folder on your computer.
 
 • Open Google Chrome: Launch Google Chrome on your computer.
 
