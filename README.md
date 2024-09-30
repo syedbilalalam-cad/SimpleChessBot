@@ -32,8 +32,6 @@ Crazy Fast Moves!
 Almost 100% win rate.
 
 Less CPU consumption. (Stockfish API)
-## Disclaimer: 🚨
-I am not responsible for any actions taken while using this program.
 
 ## Disclaimer: 🚨
 I am not responsible for any actions taken while using this program.
